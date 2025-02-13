@@ -4,9 +4,9 @@ body{
 }
 .logo{
     
-    display: block;
-    width: 150px;
-    height: auto;
-      
+    font-size: 28px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;  
       
 }
